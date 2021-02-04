@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "ethers": "^5.0.26",
+    "fs-extra": "8.1.0",
+    "solc": "0.5.11"
+  },
+  "name": "script-ido",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
